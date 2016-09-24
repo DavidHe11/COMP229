@@ -4,10 +4,11 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <!--Assignment1-ResumeSite-David He-300844568-Sept 24th 2016-->
     <link rel="Stylesheet" href="/Content/personalStyle.css" type="text/css" />
-    <div class="jumbotron" style="color: white; background-image:url(Assets/Starry_Night.jpg)">
+    <div class="jumbotron" style="color: white; background-image:url(Assets/Starry_Night.jpg);">
         <!--Starry Night recieved from http://www.publicdomainpictures.net/view-image.php?image=9767 CC0 Public Domain.-->
         <div style="color:white"><img src="Assets/Logo_IconDH.png" height="100px" alt="Logo";"/><h1>Welcome Potential Employer!</h1>
             <!--Original Logo icon from https://pixabay.com/en/logo-banner-header-web-design-507440/ CC0 Public Domain.-->
+            <h2>My Name is David Yu Quan He.</h2>
             <h3>Please Click on one of the following to learn more.</h3>
         </div>
         <p></p>
@@ -15,7 +16,7 @@
 
     <div class="row">
         <div class="on-page-nav">
-        <a href="Contact" class="on-page-nav"><h1>About<img class="on-page-nav" src="Assets/Papernpencil.png" alt="Contact me"/>Me</h1></a>
+        <a href="About" class="on-page-nav"><h1>About<img class="on-page-nav" src="Assets/Papernpencil.png" alt="Contact me"/>Me</h1></a>
             <!--Pencil and paper image found on https://commons.wikimedia.org/wiki/File:Simpleicons_Business_pencil-on-a-notes-paper.svg CCA3.0 Author: SimpleIcon http://www.simpleicon.com/-->
             </div>
         <div class="on-page-nav">
