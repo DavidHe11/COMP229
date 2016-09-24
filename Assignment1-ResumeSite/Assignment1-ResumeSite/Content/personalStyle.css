@@ -1,0 +1,18 @@
+﻿div.on-page-nav
+{
+    float:left;
+    width:50%;
+    text-align:center;
+
+}
+a.on-page-nav
+{
+    color:black; 
+    text-decoration:none;
+}
+img.on-page-nav
+{
+    padding-left:35px; 
+    padding-right:35px;
+}
+
