@@ -4,6 +4,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <!--Assignment1-ResumeSite-David He-300844568-Sept 24th 2016-->
     <link rel="Stylesheet" href="/Content/personalStyle.css" type="text/css" />
+    <!--Link to own style sheet, located in Content-->
     <div class="jumbotron" style="color: white; background-image:url(Assets/Starry_Night.jpg);">
         <!--Starry Night recieved from http://www.publicdomainpictures.net/view-image.php?image=9767 CC0 Public Domain.-->
         <div style="color:white"><img src="Assets/Logo_IconDH.png" height="100px" alt="Logo";"/><h1>Welcome Potential Employer!</h1>
