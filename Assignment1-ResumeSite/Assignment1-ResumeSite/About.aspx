@@ -11,8 +11,9 @@
     <div>
     <h4>Hello, My name is David He. I would like to one day work on/with games.</h4>
     <br />
-        <p>I love Games, no matter the genre and would like to able to make them. I am looking for a simple job where I can do my best at releasing games
-            at a steady rate because the games industry is constantly innovating and competing. I would like to eventually start my own studio.
+        <p>I love Games, no matter the genre and would like to able to make them. I am looking for a simple job where I can do my best at releasing games.
+             I would like to eventually start my own studio, to produce games that anyone can enjoy. to make games that cause players think a little more deeply 
+            is my mission currently. 
         </p>
         <p>I am currently a second year College student at Centennial College. I graduated from highschool in 2012 before going to UTSC for Psychology.
         I had always wanted to be a part of the game/entertainment industry so I made a switch in Fall 2015. I am expected to graduate in Fall 2018.
@@ -22,10 +23,10 @@
         <hr />
         <br />
         </div>
-        <h4>Previously I have worked for:</h4>
+        <h4>Previously I have worked for:</h4><!--Only one out of three are real.-->
         <br />
         <div class="row">
-            <div class="cv-list">
+            <div class="cv-list"><!--This is a real place, and my first real job.-->
                 <address>
                 Fiat Chrysler Automobiles, <br />
                 Brampton Assembly Plant <br />
@@ -52,7 +53,7 @@
                         </ul>
        
             </div>
-            <div class="cv-list">
+            <div class="cv-list"><!--Obviously not a real place, will be replaced when I get more job EXP TODO:Get Job EXP to replace-->
                 <address>
                 Fake Company <br />
                 Doing Fake Things    <br />
@@ -79,7 +80,7 @@
                 </ul>
 
             </div>
-            <div class="cv-list">
+            <div class="cv-list"> <!--Obviously not a real place, will be replaced when I get more job EXP TODO:Get Job EXP to replace-->
                 <address>
                 Complaint Industry <br />
                 Self Employed <br />
