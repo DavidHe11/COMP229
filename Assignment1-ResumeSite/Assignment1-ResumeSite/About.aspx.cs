@@ -13,5 +13,10 @@ namespace Assignment1_ResumeSite
         {
 
         }
+
+        protected virtual void ClearField()
+        {
+
+        }
     }
 }

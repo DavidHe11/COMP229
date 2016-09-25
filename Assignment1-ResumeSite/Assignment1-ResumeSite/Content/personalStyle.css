@@ -1,4 +1,6 @@
-﻿div.on-page-nav
+﻿/*Assignment1-ResumeSite-David He-300844568-Sept 24th 2016*/
+
+div.on-page-nav
 {
     float:left;
     width:50%;
@@ -24,6 +26,17 @@ img.on-page-nav
 {
     padding-left:35px; 
     padding-right:35px;
+}
+img.contactimgs
+{
+    padding-left:20px;
+    padding-right:20px;
+}
+
+button.contactform
+{
+    margin-left:5px;
+    margin-right:5px;
 }
 
 

@@ -19,13 +19,10 @@
         I am currently 21 years old, a Canadian born citizen and currently reside in Scarborough ON, I can speak English and Cantonese fluently. <br />
         I enjoy a variety of hobbies, from playing games(video/board/physical) and reading books to sports and music.
             </p>
-        <br />
-        <br />
-        <br />
-        <br />
+        <hr />
         <br />
         </div>
-        <p>Previously I have worked for:</p>
+        <h4>Previously I have worked for:</h4>
         <br />
         <div class="row">
             <div class="cv-list">
@@ -37,6 +34,7 @@
                 <br />
                 <br />
                     </address>
+                <p>Time Frame: Summer of 2014 and Summer of 2015</p><br />
                     <p>List of Responsibilities include:<br /></p>
                         <ul class="cv-list">
                             <li>
@@ -63,6 +61,7 @@
                 <br />
                 <br />
                 </address>
+                <p>Time Frame: Summer of 2016</p><br />
                     <p>List of Responsibilities include:<br /></p>
                 <ul class="cv-list">
                     <li>
@@ -89,6 +88,7 @@
                 <br />
                 <br />
                     </address>
+                <p>Time Frame: 2005-Present</p><br />
                 <p>List of Responsibilities include:<br /></p>
                 <ul class="cv-list">
                    <li>
